@@ -3,6 +3,7 @@
 **PROBLEM STATEMENT** : To Prove Moore's Law
 
 What is **Moore's Law ?**
+
 It says that the number of transistors per square inch on an integrated circuit board foubles approx every 2 years.
 
 In model.compile(), I have realized after doing hyperparameter tuning that the default optimizer 'adam' doesnt perform that well.
